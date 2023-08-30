@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Languages & Frameworks",
+    "skillItems": [
+      "JavaScript",
+      "React",
+      "Bootstrap",
+      "Tailwind",
+      "StyledComponents"
+    ]
+  },
+  {
+    "title": "Other",
+    "skillItems": [
+      "HTML",
+      "CSS",
+      "SCSS/SASS"
+    ]
+  },
+  {
+    "title": "Tools",
+    "skillItems": [
+      "VSCode",
+      "Webstorm",
+      "Figma",
+      "Font Awesome",
+      "Git",
+      "Linux",
+      "Neovim",
+      "Arch Hyprland"
+    ]
+  }
+]

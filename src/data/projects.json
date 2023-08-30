@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "src/assets/images/project-images/animate-css.png",
+    "github": "https://github.com/atakishiyev-yusif/animate-css-website",
+    "live": "https://animate-css-website.netlify.app/",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "title": "Animate.css",
+    "description": "Animate.css Website clone"
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_330,h_201/Challenges/ty4ppudcq94rtgj4rv6p.jpg",
+    "github": "https://github.com/atakishiyev-yusif/todo-app",
+    "live": "https://todoapp-app-js.netlify.app/",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "title": "Todo-app",
+    "description": "Todo app with vanilla js"
+  },
+  {
+    "id": 3,
+    "imgUrl": "src/assets/images/project-images/news-homepage.png",
+    "live": "https://news-home-page-fm.netlify.app/",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "title": "News homepage",
+    "description": "Frontend Mentor Challenge - News homepage"
+  },
+  {
+    "id": 4,
+    "imgUrl": "src/assets/images/project-images/product-landing-page.png",
+    "github": "https://github.com/atakishiyev-yusif/product-landing-page-master",
+    "live": "https://app.netlify.com/sites/product-landing-page-fm/overview",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "title": "Product Landing Page",
+    "description": "Frontend Mentor Challenge -  Product Landing Page"
+  },
+  {
+    "id": 5,
+    "imgUrl": "src/assets/images/project-images/fylo-dark-theme.png",
+    "github": "https://github.com/atakishiyev-yusif/fylo-dark-theme-landing-page-master.git",
+    "live": "https://fylo-dark-theme-fm.netlify.app/",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "title": "Fylo dark theme landing page",
+    "description": "Frontend Mentor Challenge - Fylo dark theme landing page"
+  }
+]
