@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imgUrl": "src/assets/images/project-images/animate-css.png",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.cbwzJzemQ23LB-4gGlkQFgHaEn%26pid%3DApi&f=1&ipt=679e90ba916197a7e6e99baa074520f4aa57712f9095cffaf5adfcc190057bd6&ipo=images",
     "github": "https://github.com/atakishiyev-yusif/animate-css-website",
     "live": "https://animate-css-website.netlify.app/",
     "tags": [
@@ -40,19 +40,6 @@
   },
   {
     "id": 4,
-    "imgUrl": "src/assets/images/project-images/product-landing-page.png",
-    "github": "https://github.com/atakishiyev-yusif/product-landing-page-master",
-    "live": "https://app.netlify.com/sites/product-landing-page-fm/overview",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "title": "Product Landing Page",
-    "description": "Frontend Mentor Challenge -  Product Landing Page"
-  },
-  {
-    "id": 5,
     "imgUrl": "https://github.com/atakishiyev-yusif/fylo-dark-theme-landing-page-master/raw/main/design/desktop-preview.jpg",
     "github": "https://github.com/atakishiyev-yusif/fylo-dark-theme-landing-page-master.git",
     "live": "https://fylo-dark-theme-fm.netlify.app/",
