@@ -12,10 +12,8 @@ export const Header = styled.header`
   width: 1100px;
   backdrop-filter: blur(10px);
 
-
-  @media (max-width: 1040px) {
-    justify-content: unset;
-    gap: 15%;
+  @media (max-width: 1224px) {
+    width: 90%;
   }
 `;
 
@@ -54,7 +52,7 @@ export const Sidebar = styled.div`
   position: absolute;
   bottom: 0;
   top: 0;
-  right: 35%;
+  right: 0;
   left: auto;
   height: 100vh;
   width: 50%;
@@ -71,16 +69,13 @@ export const Sidebar = styled.div`
 
 export const SidebarIcon = styled.button`
   position: absolute;
-  left: 50%;
+  right: 1rem;
   align-items: center;
   display: ${props => props.isOpen ? 'none' : 'flex'};
   
 
   @media (min-width: 768px) {
     display: none;
-  }
-  @media (max-width: 600px) {
-    left: 25%;
   }
 `;
 
@@ -89,6 +84,9 @@ export const SidebarItems = styled.div`
   flex-direction: column;
   gap: 24px;
   color: var(--gray);
+  a:nth-child(2){
+    margin-top: 48px;
+  }
   .active{
     color: var(--white);
   }
@@ -98,6 +96,7 @@ export const NavItems = styled.ul`
   display: flex;
   align-items: center;
   gap: 32px;
+  
 
   @media (max-width: 1040px) {
     gap: 18px;
@@ -107,4 +106,16 @@ export const NavItem = styled.li`
   color: var(--gray);
   font-weight: 500;
 
+`;
+
+export const CloseIcon = styled.a`
+  position: absolute;
+  right: 0;
+  
+  svg:hover{
+  path:first-child{
+      fill: red;
+  }
+    
+  }
 `;

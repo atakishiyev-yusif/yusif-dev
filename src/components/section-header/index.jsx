@@ -9,7 +9,7 @@ export const SectionHeader = ({name, viewAll, customIcon, noLine}) => {
                 <S.Title><span className="primary-color">{customIcon ? `${customIcon}` :  '#'}</span>{name}</S.Title>
                 {noLine ? '' : <S.Line/>}
             </S.TitleRow>
-            {viewAll && <a href='/projects'>View all -->  </a>}
+            {viewAll && <Link to='projects'>View all --> </Link>}
         </S.SectionHeader>
     )
 }

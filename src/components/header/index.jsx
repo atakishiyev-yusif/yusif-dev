@@ -3,6 +3,7 @@ import {Media} from "../media/index.jsx";
 import {NavLink} from "react-router-dom";
 import {useState} from "react";
 import {SidebarIcon} from "../../assets/icons/SidebarIcon.jsx";
+import {CloseIcon} from "../../assets/icons/CloseIcon.jsx";
 
 export const Header = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -34,10 +35,13 @@ export const Header = () => {
                         {/*    </select>*/}
                         {/*</S.NavItem>*/}
                     </S.NavItems>
-
                 </S.Nav>
                 <S.Sidebar isOpen={isOpen}>
                     <S.SidebarItems>
+                        <S.CloseIcon href="#" onClick= {toggleMenu}>
+                            <CloseIcon />
+                        </S.CloseIcon>
+
                         <NavLink onClick={toggleMenu} to="/"><span className="primary-color">#</span>home</NavLink>
 
                         <NavLink onClick={toggleMenu} to="/projects"><span className="primary-color">#</span>projects</NavLink>
@@ -48,7 +52,7 @@ export const Header = () => {
 
                     </S.SidebarItems>
                 </S.Sidebar>
-                                <S.SidebarIcon isOpen ={isOpen} className = 'sidebar-icon' onClick={() => setIsOpen(!isOpen)}><SidebarIcon /></S.SidebarIcon>
+                <S.SidebarIcon isOpen ={isOpen} className = 'sidebar-icon' onClick={() => setIsOpen(!isOpen)}><SidebarIcon /></S.SidebarIcon>
             </S.Header>
             <Media/>
         </>
