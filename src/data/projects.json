@@ -27,7 +27,8 @@
   },
   {
     "id": 3,
-    "imgUrl": "src/assets/images/project-images/news-homepage.png",
+    "imgUrl": "https://github.com/atakishiyev-yusif/frontend-mentor-news-home-page-master/raw/main/design/desktop-preview.jpg",
+    "github": "https://github.com/atakishiyev-yusif/frontend-mentor-news-home-page-master.git",
     "live": "https://news-home-page-fm.netlify.app/",
     "tags": [
       "HTML",
@@ -52,7 +53,7 @@
   },
   {
     "id": 5,
-    "imgUrl": "src/assets/images/project-images/fylo-dark-theme.png",
+    "imgUrl": "https://github.com/atakishiyev-yusif/fylo-dark-theme-landing-page-master/raw/main/design/desktop-preview.jpg",
     "github": "https://github.com/atakishiyev-yusif/fylo-dark-theme-landing-page-master.git",
     "live": "https://fylo-dark-theme-fm.netlify.app/",
     "tags": [
