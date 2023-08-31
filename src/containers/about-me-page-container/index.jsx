@@ -2,15 +2,11 @@ import * as S from './styles.jsx';
 import {Skills} from "../../components/skills/index.jsx";
 import {motion} from 'framer-motion';
 import {SectionHeader} from "../../components/section-header/index.jsx";
-import Terminal, { ColorMode, TerminalOutput } from 'react-terminal-ui';
 import {useEffect, useState} from "react";
-import Prism from 'prismjs';
-import '../../../node_modules/prismjs/themes/prism-dark.css';
 
 
 export const AboutMePageContainer = () => {
     useEffect(() => {
-        Prism.highlightAll();
         document.documentElement.scrollTo({
             top: 0,
             left: 0,

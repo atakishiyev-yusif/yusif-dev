@@ -1,8 +1,6 @@
 import * as S from './styles.jsx';
 import {PrimaryButton} from "../primary-button/index.jsx";
 import {useEffect, useState} from "react";
-import Prism from 'prismjs';
-import '../../../node_modules/prismjs/themes/prism-dark.css';
 import {ReactTerminal} from "react-terminal";
 import Modal from 'react-modal';
 import {Link} from "react-router-dom";
@@ -42,12 +40,6 @@ export const Hero = () => {
             </>,
         cd: (directory) => `changed path to ${directory}`
     };
-
-
-    useEffect(() => {
-        Prism.highlightAll();
-    }, [])
-
 
     const customStyles = {
         content: {
