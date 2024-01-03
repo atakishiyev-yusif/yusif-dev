@@ -1,7 +1,7 @@
 [
   {
     "id": "mentionapp",
-    "imgUrl": "https://private-user-images.githubusercontent.com/136915671/294035966-bb303c89-bab1-4e26-a607-99afdfcf0f47.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzMTk1NzUsIm5iZiI6MTcwNDMxOTI3NSwicGF0aCI6Ii8xMzY5MTU2NzEvMjk0MDM1OTY2LWJiMzAzYzg5LWJhYjEtNGUyNi1hNjA3LTk5YWZkZmNmMGY0Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwM1QyMjAxMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05OTg3YWU4ODU0ODI1NmVlMGYzNzJiYmNjMzkxNjdlMjg1YmMwZDI2YjRhYjI0OGYyMmI4ZGU4ZTYyYmUwYTgyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.H_5zD1qvHL1ohAO-TGKYB7J68WE35BSvxmBi_0KcZbI",
+    "imgUrl": "https://raw.githubusercontent.com/atakishiyev-yusif/mention/main/assets/cover-mention-website.png",
     "github": "https://github.com/atakishiyev-yusif/mention",
     "live": "https://mention.netlify.app/",
     "tags": ["HTML", "CSS", "JavaScript"],
@@ -9,13 +9,13 @@
     "description": "Mention : Freelance platform for creative minds"
   },
   {
-  	"id":"instagramClone",
-  	"imgUrl":"https://private-user-images.githubusercontent.com/136915671/294041700-00b9ebf8-e965-4f0c-894b-61ed4304c863.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzMjA5NjYsIm5iZiI6MTcwNDMyMDY2NiwicGF0aCI6Ii8xMzY5MTU2NzEvMjk0MDQxNzAwLTAwYjllYmY4LWU5NjUtNGYwYy04OTRiLTYxZWQ0MzA0Yzg2My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwM1QyMjI0MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZGI5OGIyZjAyMTUyOTM2ZTY0ZTJhMDczYzYyYmQ0N2NhZjU3YWE0ZGFlNDViOTk2YjBmNDkyMmQxNWFmYTlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._5NHibyuwjSbDKiue73KslgDy1xjWV_7KeV98sfl2qI",
-	"github":"https://github.com/atakishiyev-yusif/instagram-clone",
-  	"live":"https://instagram-clone-gamma-ten.vercel.app/",
-  	"tags":["React, Javascript, Tailwind"],
-  	"title":"Instagram clone",
-  	"description":"instagram clone app"
+    "id":"instagramClone",
+    "imgUrl":"https://raw.githubusercontent.com/atakishiyev-yusif/instagram-clone/main/cover.png",
+    "github":"https://github.com/atakishiyev-yusif/instagram-clone",
+    "live":"https://instagram-clone-gamma-ten.vercel.app/",
+    "tags":["React, Javascript, Tailwind"],
+    "title":"Instagram clone",
+    "description":"instagram clone app"
   }, 
   {
     "id": "imagic",
